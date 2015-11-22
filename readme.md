@@ -18,7 +18,7 @@ Seperti diketahui, setiap developer membutuhkan alat ini. Gunanya adalah untuk b
 
 ### Instalasi
 
-Khusus untuk Ubuntu linux silahkan ikuti tautan berikut [ini](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-12-04), untuk pengguna Windows bisa ikuti tautan berikut [ini](http://git-scm.com/download/win).
+Khusus untuk Ubuntu linux silahkan ikuti tautan berikut [https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-12-04](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-12-04), untuk pengguna Windows bisa ikuti tautan berikut [http://git-scm.com/download/win](http://git-scm.com/download/win).
 
 ## NPM
 

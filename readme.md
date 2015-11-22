@@ -37,4 +37,4 @@ npm install bower grunt grunt-cli node-sass -g
 Ada banyak macam CSS Preprocessor, disini kita akan menggunakan SASS sebagai CSS Preprocessor. Untuk instalasinya sudah dilakukan diatas.
 
 
-Jika ada pertanyaan tentang paket-paket diatas, bisa langsung hubungi ke isatri [at] linkaran [dot] com
+Jika ada pertanyaan tentang paket-paket diatas, bisa langsung hubungi ke isatrio [at] linkaran [dot] com
